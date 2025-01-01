@@ -3,7 +3,12 @@
 		<h2 class=" text-balance text-3xl font-semibold tracking-tight lg:col-span-7">
 			Want to be first to try to the beta? Sign Up now
 		</h2>
-		<form class="w-full max-w-md lg:col-span-5 lg:pt-2">
+		<form
+			class="w-full max-w-md lg:col-span-5 lg:pt-2"
+			name="beta-sign-up"
+			method="POST"
+			data-netlify="true"
+		>
 			<div class="flex gap-x-4">
 				<label for="email-address" class="sr-only">Email address</label>
 				<input
