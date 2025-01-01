@@ -8,6 +8,7 @@
 			name="beta-sign-up"
 			method="POST"
 			data-netlify="true"
+			netlify
 		>
 			<div class="flex gap-x-4">
 				<label for="email-address" class="sr-only">Email address</label>
