@@ -30,7 +30,7 @@
 			</div>
 			<p class="mt-4 text-sm/6">
 				We care about your data. Read our <a
-					href="#"
+					href="/privacy-policy"
 					class="text-brand-50 hover:text-brand-200 font-semibold">privacy&nbsp;policy</a
 				>.
 			</p>
