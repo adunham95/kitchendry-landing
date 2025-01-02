@@ -6,6 +6,7 @@
 		<form
 			class="w-full max-w-md lg:col-span-5 lg:pt-2"
 			name="beta-sign-up"
+			action="/success"
 			method="POST"
 			data-netlify="true"
 			netlify
